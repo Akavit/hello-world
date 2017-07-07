@@ -1,2 +1,3 @@
 # hello-world
-repository
+
+Hi! I'm Akavit from Thailand.
